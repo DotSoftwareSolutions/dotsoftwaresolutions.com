@@ -24,7 +24,7 @@ let offCanvas = `
 
         <div class="offcanvas__map d-none d-lg-block mb-15">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d29176.030811137334!2d90.3883827!3d23.924917699999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1605272373598!5m2!1sen!2sbd"></iframe>
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114964.38937891844!2d-80.30779416886581!3d25.78254537206004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b0a20ec8c111%3A0xff96f271ddad4f65!2sMiami%2C%20Florida%2C%20Amerika%20Birle%C5%9Fik%20Devletleri!5e0!3m2!1str!2str!4v1738673955982!5m2!1str!2str"></iframe>
         </div>
 
         <div class="offcanvas__contact mt-30 mb-20">
@@ -36,7 +36,7 @@ let offCanvas = `
                 </div>
                 <div class="offcanvas__contact-text">
                     <a target="_blank"
-                        href="https://www.google.com/maps/place/Dhaka/@23.7806207,90.3492859,12z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.8104753!4d90.4119873">12/A,
+                        href="https://maps.app.goo.gl/k457ZBpG9meHsY4b6">12/A,
                         Mirnada City Tower, NYC</a>
                 </div>
                 </li>
@@ -45,7 +45,7 @@ let offCanvas = `
                     <i class="far fa-phone"></i>
                 </div>
                 <div class="offcanvas__contact-text">
-                    <a href="mailto:support@gmail.com">088889797697</a>
+                    <a href="tel:+012-345-6789">088889797697</a>
                 </div>
                 </li>
                 <li class="d-flex align-items-center">
@@ -53,7 +53,7 @@ let offCanvas = `
                     <i class="fal fa-envelope"></i>
                 </div>
                 <div class="offcanvas__contact-text">
-                    <a href="tel:+012-345-6789">support@mail.com</a>
+                    <a href="mailto:info@dotsoftwaresolutions.com">info@dotsoftwaresolutions.com</a>
                 </div>
                 </li>
             </ul>
