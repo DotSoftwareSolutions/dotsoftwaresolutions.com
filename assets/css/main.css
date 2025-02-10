@@ -1585,7 +1585,8 @@ input[type=color] {
 
 /* logo */
 .logo img {
-  max-width: 150px;
+  max-width: 192px;
+  height: auto;  /* Keeps aspect ratio */
 }
 
 /* main menu css */
@@ -2076,8 +2077,8 @@ input[type=color] {
 }
 .bd-services-2__title {
   font-size: 24px;
-  text-transform: uppercase;
-  letter-spacing: 3px;
+  /* text-transform: uppercase; */
+  letter-spacing: 2px;
   font-weight: 500;
   margin-bottom: 30px;
 }

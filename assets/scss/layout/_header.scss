@@ -112,7 +112,8 @@
 
 .logo{
     & img{
-        max-width: 150px;
+        max-width: 192px;
+        height: auto;  /* Keeps aspect ratio */
     }
 }
 
